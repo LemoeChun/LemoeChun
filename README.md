@@ -1,4 +1,4 @@
-# Sniventals
+# 綝
 
 [正體中文 readme](https://github.com/LemoeChun/LemoeChun/blob/main/README.md)
 
