@@ -4,7 +4,7 @@
 
 [English readme](https://github.com/LemoeChun/LemoeChun/blob/main/README.en.md)
 
-你好，這裡是綝萌椿！可愛い、萌、愛らしい!!
+你好，這裡是綝夕雾！可愛い、萌、愛らしい!!
 
 ## GPG 公鑰
 
